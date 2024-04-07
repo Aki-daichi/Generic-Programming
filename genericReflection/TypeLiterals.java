@@ -7,8 +7,8 @@ package genericReflection;
 
 import java.util.*;
 /**
- *
- * @author Dzaka Fadhlillah Hakim
+ * @version 1.01 2018-04-10
+ * @author Cay Horstmann
  */
 public class TypeLiterals {
     public static class Sample {
