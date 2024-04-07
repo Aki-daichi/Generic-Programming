@@ -35,7 +35,6 @@ class TypeLiteral<T> {
     /** 
      * Yields a type literal that describes the given type.
      */
-    
     public static TypeLiteral<?> of(Type type) {
         return new TypeLiteral<Object>(type);
     }
